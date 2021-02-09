@@ -1,0 +1,34 @@
+{
+  "dev": {
+    "mongodb": {
+      "url": "mongodb+srv://adoodlz:Adoodlz@2020@cluster0.9vvab.mongodb.net/adoodlz",
+      "options": {
+        "dbName": "adoodlz"
+      }
+    },
+    "session": {
+      "secret": "adoodlz"
+    },
+    "aws": {
+      "access-key-id": "AKIAI2WVCQPZCEWE3JFA",
+      "secret-key": "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",
+      "bucket-name": "adoodlz-media"
+    }
+  },
+  "production": {
+    "mongodb": {
+      "url": "mongodb+srv://adoodlz:Adoodlz@2020@cluster0.9vvab.mongodb.net/adoodlz",
+      "options": {
+        "dbName": "adoodlz"
+      }
+    },
+    "session": {
+      "secret": "adoodlz"
+    },
+    "aws": {
+      "access-key-id": "AKIAI2WVCQPZCEWE3JFA",
+      "secret-key": "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",
+      "bucket-name": "adoodlz-media"
+    }
+  }
+}
